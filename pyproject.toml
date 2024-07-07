@@ -10,7 +10,7 @@ repository = "https://github.com/benjaminleroy/cowpatch/"
 
 [tool.poetry.dependencies]
 python = ">=3.8, <4.0"
-plotnine = "^0.10.0"
+plotnine = ">=0.10.0"
 matplotlib = "^3.5.1"
 numpy = "^1.21.4"
 svgutils = "^0.3.4"
